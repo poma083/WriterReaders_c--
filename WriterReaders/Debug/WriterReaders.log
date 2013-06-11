@@ -1,0 +1,20 @@
+﻿Build started 11.06.2013 9:05:20.
+     1>Project "C:\work\oganer\src\WriterReaders_c++\WriterReaders\WriterReaders.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\WriterReaders.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\WriterReaders.unsuccessfulbuild".
+         Touching "Debug\WriterReaders.lastbuildstate".
+     1>Done Building Project "C:\work\oganer\src\WriterReaders_c++\WriterReaders\WriterReaders.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.75
